@@ -1,7 +1,5 @@
 # Hi there, I'm MillicentMalinga 👋
 
-![Banner Image](https://github.com/MillicentMalinga/images/blob/main/DSC02281-min.png)
-
 ## About Me 🚀
 
 I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud DevOps and Backend Engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.

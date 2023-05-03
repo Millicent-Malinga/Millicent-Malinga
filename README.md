@@ -1,6 +1,6 @@
-# Hi there, I'm @Millicent-Malinga 👋
+# Hi there, I'm MillicentMalinga 👋
 
-![Banner Image](https://github.com/MillicentMalinga/images/blob/main/DSC02281-min.png = 250x250)
+![Banner Image](https://github.com/MillicentMalinga/images/blob/main/DSC02281-min.png)
 
 ## About Me 🚀
 

@@ -30,21 +30,21 @@ I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud Dev
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [LasBite](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Altruistech](https://altru-is.tech/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Altruistech]** is a **[landing site for Altruistech  a platform for connecting Healthcare Professionals, Hospitals, Patients, and Community Health Workers for Enhanced Healthcare Access]** built with **[HTML, CSS, JS and Firebase]**. This project showcases my skills in **[basic full stack web development]**. You can check out the repository [here](https://github.com/MillicentMalinga/altruistech).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**(millicent)
 - **[LinkedIn]**(https://www.linkedin.com/in/millicent-malinga-015330241/)
 - **[Twitter]**(your_twitter_profile_link)
 

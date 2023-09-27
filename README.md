@@ -44,7 +44,7 @@ I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud Dev
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(millicent)
+- **[Personal Website / Blog]**(millicentmals.tech)
 - **[LinkedIn]**(https://www.linkedin.com/in/millicent-malinga-015330241/)
 - **[Twitter]**(your_twitter_profile_link)
 

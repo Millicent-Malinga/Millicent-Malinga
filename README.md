@@ -5,9 +5,9 @@
 I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud DevOps and Backend Engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Cloud DevOps and Software Engineering with IBM on Coursera**
-- 🔭 Working on: **Medical Practitioners Database**
+- 🔭 Working on: **Altruistech, LasBite**
 - 🌍 Languages: **Python, Nodejs, Javascript**
-- 📫 How to reach me: **millicentmalinga19@gmail.com**
+- 📫 How to reach me: **millicentmalinga2021@gmail.com**
 - ⚡ Fun fact: **I love errors!**
 
 ## My Skills 🧠
@@ -40,7 +40,7 @@ I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud Dev
 
 ![Project 2 Screenshot](https://github.com/Millicent-Malinga/Millicent-Malinga/blob/main/Home.png)
 
-**[Altruistech]** is a **[landing site for Altruistech  a platform for connecting Healthcare Professionals, Hospitals, Patients, and Community Health Workers for Enhanced Healthcare Access]** built with **[HTML, CSS, JS and Firebase]**. This project showcases my skills in **[basic full stack web development]**. You can check out the repository [here](https://github.com/MillicentMalinga/altruistech).
+**Altruistech** is a **landing site for Altruistech  a platform for connecting Healthcare Professionals, Hospitals, Patients, and Community Health Workers for Enhanced Healthcare Access** built with **HTML, CSS, JS and Firebase**. This project showcases my skills in **basic full stack web development**. You can check out the repository [here](https://github.com/MillicentMalinga/altruistech).
 
 ## Get in Touch 📬
 
